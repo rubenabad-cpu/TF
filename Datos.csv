@@ -1,0 +1,20 @@
+Variables;Opciones;Monto S/ por gramo
+Tipo Prenda;Chompas;0.20
+;Vestidos;0.25
+;Chalinas;0.15
+;Accesorios;0.10
+Tipo Punto;Básico;0.05
+;Cruzado;0.08
+;Fantasia;0.10
+;Intarsia;0.12
+Tipo Método;Palito;0.05
+;Crochet;0.08
+;Macramé;0.10
+;Enmallado;0.12
+Tipo Material;Alpaca;0.06
+;Oveja;0.03
+;Algodón;0.02
+Tipo Color;Claro;0.00
+;Oscuro;0.01
+Acabados;Etiquetado;1.00
+;Vaporizado;2.00
